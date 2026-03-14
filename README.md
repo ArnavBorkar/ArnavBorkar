@@ -1,26 +1,13 @@
 <img align="center" alt="Arnav Borkar" width=100% src="https://i.ibb.co/pr5nB4P/24th-26th-MARCH-1.png">
 <h1></h1>
 <h1 align="center">Hi 👋, I'm Arnav Borkar</h1>
-<h3 align="center">Passionate about exploring Distributed Systems 🖥️ and Storage Technologies 💾</h3>
+<h3 align="center"> Exploring Data, AI and Distributed Systems</h3>
 
 <h1></h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
-- 📍 I am from **Nagpur, Maharashrta, India 🇮🇳**
-
-- 🎓  Education : **Final Year student at BITS Pilani, Goa Campus**
-
-- 🔎 I'm an Undergraduate Research Student **at Data, Systems and High-Performance-Computing Lab, BITS Goa**
-
-- ⚙️ I’m currently working on **BeeGFS 🐝 Parallel file system cluster**
-
-- 💬  Always up to talk about **Distributed systems and new FS technologies**
-
 - 🤝  Connect with me on [LinkedIn](https://www.linkedin.com/in/arnavborkar/)
-
 - 📫  Email me at **arnav.n.borkar@gmail.com**
-
-- 📄 Find My Resume Here -> [Arnav Borkar Resume 2023](https://drive.google.com/file/d/1zhLeVCyShnJO13uwNMjNWEocS1RhC0Ht/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
