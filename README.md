@@ -4,7 +4,7 @@
 
 <b>Arnav Borkar</b>&nbsp;&nbsp;·&nbsp;&nbsp;data platforms and AI systems
 
-<sub>The terminal above types itself. GitHub strips JavaScript from READMEs, so every keystroke is a CSS keyframe inside an SVG, computed by <a href="assets/generate_terminal.py">one Python script</a> in this repo. As close to a working terminal as a README gets, and yes, I tried.</sub>
+<sub>The nerd in me generated this using <a href="assets/generate_terminal.py">one Python script</a>.</sub>
 
 <br><br>
 
